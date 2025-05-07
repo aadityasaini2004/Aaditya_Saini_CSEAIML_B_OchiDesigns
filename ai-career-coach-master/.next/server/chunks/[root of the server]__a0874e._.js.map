@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 135, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/HP/Desktop/Mini%20Project/SENS%20AI/ai-career-coach-master/lib/inngest/client.js"],"sourcesContent":["import { Inngest } from \"inngest\";\n\nexport const inngest = new Inngest({\n  id: \"sensai\", // Unique app ID\n  name: \"Career Coach\",\n  credentials: {\n    gemini: {\n      apiKey: process.env.GEMINI_API_KEY,\n    },\n  },\n});\n"],"names":[],"mappings":";;;AAAA;;AAEO,MAAM,UAAU,IAAI,kIAAA,CAAA,UAAO,CAAC;IACjC,IAAI;IACJ,MAAM;IACN,aAAa;QACX,QAAQ;YACN,QAAQ,QAAQ,GAAG,CAAC,cAAc;QACpC;IACF;AACF"}},
+    {"offset": {"line": 149, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 155, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/HP/Desktop/Mini%20Project/SENS%20AI/ai-career-coach-master/app/api/inngest/route.js"],"sourcesContent":["import { serve } from \"inngest/next\";\nimport { inngest } from \"@/lib/inngest/client\"; \n\nexport const {GET, PUSH, PUT} = serve({\n  client: inngest,\n  functions: [\n    // your functions \n  ], \n});"],"names":[],"mappings":";;;;;AAAA;AACA;;;AAEO,MAAM,EAAC,GAAG,EAAE,IAAI,EAAE,GAAG,EAAC,GAAG,CAAA,GAAA,iIAAA,CAAA,QAAK,AAAD,EAAE;IACpC,QAAQ,0HAAA,CAAA,UAAO;IACf,WAAW,EAEV;AACH"}},
+    {"offset": {"line": 168, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

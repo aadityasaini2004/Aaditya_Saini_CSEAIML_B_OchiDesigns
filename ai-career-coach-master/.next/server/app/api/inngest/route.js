@@ -1,0 +1,11 @@
+const CHUNK_PUBLIC_PATH = "server/app/api/inngest/route.js";
+const runtime = require("../../../chunks/[turbopack]_runtime.js");
+runtime.loadChunk("server/chunks/node_modules_next_dist_674979._.js");
+runtime.loadChunk("server/chunks/d7b7b_zod_lib_559a08._.js");
+runtime.loadChunk("server/chunks/node_modules_inngest_42511e._.js");
+runtime.loadChunk("server/chunks/node_modules_tr46_816df9._.js");
+runtime.loadChunk("server/chunks/node_modules_923c19._.js");
+runtime.loadChunk("server/chunks/[root of the server]__a0874e._.js");
+runtime.loadChunk("server/chunks/_a71c0b._.js");
+runtime.getOrInstantiateRuntimeModule("[project]/.next-internal/server/app/api/inngest/route/actions.js [app-rsc] (ecmascript)", CHUNK_PUBLIC_PATH);
+module.exports = runtime.getOrInstantiateRuntimeModule("[project]/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/app/api/inngest/route.js [app-route] (ecmascript)\" } [app-route] (ecmascript)", CHUNK_PUBLIC_PATH).exports;
