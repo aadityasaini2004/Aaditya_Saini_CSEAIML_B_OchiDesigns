@@ -1,5 +1,8 @@
 <h1>Project Overview</h1> <br>
-<p>It is Next.js web dev appli
+<p>It is Next.js web dev application that help users to write a job cover letter, Interview preparation and Build 
+Resume. a Next.js project that helps users create resumes, prepare for interviews, and write job cover letters 
+using the Gemini AI API. It addresses real-world job search challenges by making the process easier and more 
+efficient. A growth tool button further enhances career development. </p>
 <h1>Methodology</h1>
 1. Frontend Development – The user interviecation that help users to write a job cover letter, Interview preparation and Build 
 Resume. a Next.js project that helps users create resumes, prepare for interviews, and write job cover letters 
