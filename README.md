@@ -7,7 +7,17 @@ efficient. A growth tool button further enhances career development. </p>
 1. Frontend Development – The user interviecation that help users to write a job cover letter, Interview preparation and Build 
 Resume. a Next.js project that helps users create resumes, prepare for interviews, and write job cover letters 
 using the Gemini AI API. It addresses real-world job search challenges by making the process easier and more 
-efficient. A growth tool button further enhances career development. </p> <br>
+efficient. A growth tool button further enhances career development.  <br> <br>
+
+2. Backend and Database – The project Utilizes Inngest or Neon for database management, ensuring efficient 
+data storage and retrieval. <br> <br>
+3. AI Integration – The Google Gemini API powers resume building, interview preparation, and job cover letter 
+generation, providing AI-driven assistance to users. <br> <br> 
+4. Industry Insights and Growth Tools – Weekly Updates on job trends and market insights help users stay 
+ahead, while a dedicated growth tool button enhances career development.  <br> <br>
+
+
+</p> <br>
 <h1>Working Of Project</h1> 
 1. Automatic Resume Building – Enable users to generate professional resumes quickly Using Ai 
 2. Enhance Interview Preparation – Provide AI-driven insights and practice questions to improve interview skills. 
